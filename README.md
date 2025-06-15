@@ -40,12 +40,7 @@ A comprehensive room booking and management system built with Laravel, featuring
   - Bulk status updates
   - Payment status verification
   - PIN regeneration capabilities
-
-- **Data Export**
-  - CSV export with custom filters
-  - Comprehensive booking reports
-  - Statistical insights
-
+ 
 ## 📋 Requirements
 
 - PHP >= 8.1
